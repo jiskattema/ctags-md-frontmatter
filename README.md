@@ -26,10 +26,10 @@ From the example above, we will get the following tags:
 
 # Installation
 
-Place the ```vorg.ctags``` somewhere ctag can pick it up.  For instance, at the
+Place the ```vorg.ctags``` somewhere ctags can pick it up.  For instance, at the
 root of your project, in a ```.ctags/``` folder.
 
 The language name (```langdef``` for ctags) I use is ```vorg```: the name of my
 vim based note keeping setup.
 
-It ctags applies this ```langdef``` for suffixes ```txt``` and ```md```.
+ctags applies this ```langdef``` for suffixes ```txt``` and ```md```.
